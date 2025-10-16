@@ -1,0 +1,30 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+}
+
+h2,
+h3,
+h4 {
+  color: #0366d6;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 18px;
+}
+
+footer {
+  color: #555;
+  font-size: 0.9em;
+}
